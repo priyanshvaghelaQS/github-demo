@@ -1,2 +1,2 @@
-a=78
-console.log(a)
+b = a;
+console.log(b)
